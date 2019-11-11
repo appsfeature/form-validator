@@ -33,7 +33,7 @@ dependencies {
 In your activity class:
 #### Usage method
 ```java 
-      public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     EditText etName, etAge, etEmail;
     private FormValidator formValidator;
@@ -65,4 +65,4 @@ In your activity class:
 ```
 
 #### Useful Links:
-1. https://console.developers.google.com 
+1. https://github.com/appsfeature/form-validator

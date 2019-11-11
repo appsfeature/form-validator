@@ -22,7 +22,7 @@ Add this to your project build.gradle
 
 Module-level build.gradle (<module>/build.gradle): 
 
-#### [![](https://jitpack.io/v/appsfeature/YTPlayer.svg)](https://jitpack.io/#appsfeature/YTPlayer)
+#### [![](https://jitpack.io/v/appsfeature/form-validator.svg)](https://jitpack.io/#appsfeature/form-validator)
 ```gradle  
 
 dependencies {
